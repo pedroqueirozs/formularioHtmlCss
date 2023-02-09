@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Formulario de Inscrição. -[Visite o projeto online](https://pedroqueirozs.github.io/projeto04HtmlExplorer/)
+Formulario de Inscrição. -[Visite o projeto online](https://pedroqueirozs.github.io/formularioHtmlCss/)
 
 ## 🔖 Layout
 
